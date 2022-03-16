@@ -21,24 +21,19 @@ export const about = {
     hobbies: ['Cricket', 'Gardening', 'Playing', 'Swimming'],
     quote: 'Write code that changes Lives...',
     skills: [
-        'nextjs',
+        'spring',
         'react',
-        'redux',
+        'java',
+        'javascript',
         'python',
         'bash',
-        'cplusplus',
         'css3',
-        'sass',
-        'typescript',
-        'docker',
-        'django',
+        'mongodb',
         'html5',
         'git',
-        'javascript',
-        'jquery',
-        'mongodb',
-        'nodejs',
-        'php'
+        'bitbucket',
+        'android'
+
     ],
     tools: ['github', 'photoshop', 'vim', 'visualstudio', 'linux']
 };
