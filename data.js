@@ -1,24 +1,24 @@
 export const home = {
-    domain: 'jayhawk.github.io',
-    name: 'Anubhav',
-    subtitle: 'A Freelance Web Developer from India.',
-    email: 'anubhavthrilling24@gmail.com',
+    domain: 'hpanwar214.github.io',
+    name: 'Harshit',
+    subtitle: 'A Web Developer from India.',
+    email: 'hpanwar214@gmail.com',
     resumeLink:
-        'https://drive.google.com/file/d/1sqxhKQnX9vD1Q41R1QqjCUadxBZlfTJ-/view?usp=sharing',
-    desc: 'A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.'
+        'https://drive.google.com/file/d/1FrHdaxAvZMRjGCKbQiJP5xf-1GGp9FaZ/view?usp=sharing',
+    desc: 'A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java Spring boot / Reactjs / MongoDB and some other cool libraries and frameworks.'
 };
 
 export const socials = {
     // Only usernames.
-    twitter: 'jayh4wk',
-    github: 'jayhawk24',
-    instagram: '__jayhawk__'
+    twitter: 'HarshitAsHP',
+    github: 'hpanwar214',
+    instagram: 'harshitpanwar214'
 };
 
 export const about = {
     aboutMe:
-        '🙏 Namaste, I am Anubhav Gupta from Varanasi, India I am a Full Stack Developer at Gigwalla. Apart from coding, there are a lot of activities I love to do like...',
-    hobbies: ['Basketball', 'Chess', 'Hiking', 'Swimming'],
+        '🙏 Namaste, I am Harshit Panwar from Ratlam, Madhya Pradesh, India. I am a Full Stack Developer at Nextuple Inc. Apart from coding, there are a lot of activities I love to do like...',
+    hobbies: ['Cricket', 'Gardening', 'Playing', 'Swimming'],
     quote: 'Write code that changes Lives...',
     skills: [
         'nextjs',
@@ -45,39 +45,33 @@ export const about = {
 
 export const projects = [
     {
-        title: 'V80 Stocks',
-        imgSrc: 'assets/v80.jpg',
-        desc: "List of stocks below 200 DMA which are in Vivek Singhal's v40 and v40 next stocks list.",
-        link: 'https://github.com/jayhawk24/v80'
+        title: 'Book My Service',
+        imgSrc: 'assets/bms.png',
+        desc: 'Web app for online booking of general household services like UrbanClap',
+        link: 'https://github.com/hpanwar214/BmS'
     },
     {
-        title: 'E Store 24',
+        title: 'Sorting Visulizer',
+        imgSrc: 'assets/sortingvisualisation.png',
+        desc: "Show animations for various sorting algorithms including bubble, insertion, selection, merge, quick and heap sort ",
+        link: 'https://github.com/hpanwar214/Sorting-Visualization'
+    },
+    {
+        title: 'E Store',
         imgSrc: 'assets/estore.png',
-        desc: 'The website resembles a real store and you can add products to your cart and pay for them.',
-        link: 'https://github.com/jayhawk24/E-store'
+        desc: 'The website resembles a real store and you can add products to your cart and cheek out for them.',
+        link: 'https://github.com/hpanwar214/eStore'
     },
     {
-        title: 'Blood Bank',
-        imgSrc: 'assets/donation.jpg',
+        title: 'Data Visualiser',
+        imgSrc: 'assets/datavisualizer.jpeg',
         desc: 'Web application for hospitals to manage their blood bank and users who need blood. Made with PHP and MySQL.',
-        link: 'https://github.com/jayhawk24/blood_bank'
+        link: 'https://github.com/hpanwar214/Data-Visualization'
     },
     {
-        title: 'Ora Studio',
-        imgSrc: 'assets/orastudio.png',
-        desc: 'Architect Organisation Website. It is astatic website but with a great userinterface and you can check it out.',
-        link: 'https://github.com/jayhawk24/orastudio'
-    },
-    {
-        title: 'Zen Social',
-        imgSrc: 'assets/zensocial.png',
-        desc: 'Social App made with django. You can post your thoughts and ideas anonymously and also create groups and post there.',
-        link: 'https://github.com/jayhawk24/zensocial'
-    },
-    {
-        title: 'Take Turns',
-        imgSrc: 'assets/takeTurns.png',
-        desc: "Easy Friendy Management, register your roommates, and it will simply show who's turn it is to carry out a task job.",
-        link: 'https://github.com/jayhawk24/take-turns'
+        title: 'Member Directory App',
+        imgSrc: 'assets/memberdir.jpeg',
+        desc: 'An android app to record and search about members and alumnis of college',
+        link: 'https://github.com/hpanwar214/Member-directory'
     }
 ];
