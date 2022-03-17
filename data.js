@@ -31,11 +31,10 @@ export const about = {
         'mongodb',
         'html5',
         'git',
-        'bitbucket',
         'android'
 
     ],
-    tools: ['github', 'photoshop', 'vim', 'visualstudio', 'linux']
+    tools: ['github', 'bitbucket','intellij', 'vim', 'visualstudio', 'linux']
 };
 
 export const projects = [
@@ -46,7 +45,7 @@ export const projects = [
         link: 'https://github.com/hpanwar214/BmS'
     },
     {
-        title: 'Sorting Visulizer',
+        title: 'Sorting Visualizer',
         imgSrc: 'assets/sortingvisualisation.png',
         desc: "Show animations for various sorting algorithms including bubble, insertion, selection, merge, quick and heap sort ",
         link: 'https://github.com/hpanwar214/Sorting-Visualization'
